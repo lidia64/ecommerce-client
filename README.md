@@ -1,6 +1,6 @@
 # Modern Market
 
-Modern Market is a responsive e-commerce web client built with React, Vite, Tailwind CSS, Axios, TanStack Query, and Zustand. It provides a marketplace-style shopping experience with category browsing, product search, product details, cart persistence, checkout, and order history.
+Modern Market is a responsive e-commerce web client built with React, Vite, Tailwind CSS, Axios, TanStack Query, and Zustand. It provides a marketplace-style shopping experience with category browsing, product search, product details, cart persistence, checkout, and order history
 
 ## Description
 
